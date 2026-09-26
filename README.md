@@ -20,4 +20,4 @@ for each residue across all frames.
 - Input: CSV file with columns for **residue name** and **frame number**
 - Output: total H-bond counts per residue
 - Simple, fast, and easy to integrate into analysis workflows
-- Outputs both terminal display and optional CSV summary file
+- Outputs both terminal display and optional CSV summary file.
